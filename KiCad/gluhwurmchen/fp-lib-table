@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "gluhwurmchen")(type "KiCad")(uri "${KIPRJMOD}/gluhwurmchen.pretty")(options "")(descr ""))
+)
