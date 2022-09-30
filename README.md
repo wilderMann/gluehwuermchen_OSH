@@ -2,27 +2,20 @@
 ### an opensource hardware project for youthwork and schools
 Glühwürmchen is a small battery powerd PCB that is easy to solder for beginners and intended for the use in youthwork and schools.
 
-You’ll find the english description below.
-
-### Ein opensource hardware Projekt für Jugendarbeit und Schulen
-Das Glühwürmchen ist eine kleine batteriebetriebene Schaltung die im Dunkeln leuchtet.
-Es soll für Anfänger einfach zu löten sein und ist für den Einsatz in der Jugendarbeit gedacht.
-
 
 <img src="/images/gluhwurmchen_frontback_render.png" alt="Gluhwurmchen Render aus KiCad">
 
 
-### Wie komme ich an das Glühwürmchen?
+### How do i get one?
 
-Ihr müsst euch dieses Repository herunterladen, die Benötigten Bauteile einkaufen und die Platine produzieren lassen.
-In der Regel zahlt es sich nicht aus nur ein Glühwürmchen produzieren zu lassen.
-Ab etwa 100 Platinen macht die Bestellung Sinn.
+You have to clone the repository, buy the components and order the PCB.
+Usually its cheaper to order those in bigger quantities, starting with about 100 Glühwürmchen.
 
-Die Platine ist Beschriftet wo welches Bauteil hin soll. Die Lötpads sind extra groß um auch für Anfänger einfach zum Löten zu sein.
+The PCB is marked, so its easy to assemble, also the pads are extra large to make soldering easier for beginners.
 
-#### Bauteilliste
+#### Bill of Materials
 
-Bezeichnung | Wert | Menge | Anmerkung | Links
+Name | Value | Amount | Comment | Links
  --- | --- | --- | --- | --- 
 Metall-/Kohleschichtwiderstand|10...100kΩ|1|Je kleiner der Widerstand desto früher leuchtet die Schaltung|[Conrad](https://www.conrad.at/de/p/yageo-cfr-25jt-52-100k-kohleschicht-widerstand-100-k-axial-bedrahtet-0207-0-25-w-5-1-st-1417735.html) [DigiKey](https://www.digikey.at/de/products/detail/yageo/CFR-25JB-52-100K/245)
 LED 5mm|Rot, Grün, Orange|1|Blau geht unter vorbehalt auch|[Conrad](https://www.conrad.at/de/p/barthelme-led-sortiment-gruen-rund-5-mm-120-mcd-35-20-ma-3-v-1666914.html) [DigiKey](https://www.digikey.at/de/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012)
@@ -33,11 +26,10 @@ Knopfzelle|CR2032|1|IKEA hat günstige Zellen|[IKEA](https://www.ikea.com/at/de/
 
 
 
-#### Platine bestellen
+#### Ordering the PCB
 
-Das Glühwürmchen könnt ihr euch bei diversen Herstellern produzieren lassen. Ein kostengünstiger Hersteller mit sitz in Europa ist [AISLER](https://aisler.net/).
-Dort könnt ihr relativ einfach die **gluehwurmchen.kicad_pcb** Datei hochladen und bestellen.
-In der Regel ist es billiger gleich 100 Stück oder mehr zu kaufen.
+You can order the PCB at different companys. A cheap and european manufacturer is AISLER](https://aisler.net/).
+There you can upload **gluehwurmchen.kicad_pcb** and order it.
 
 
 
