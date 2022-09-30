@@ -1,0 +1,5 @@
+{
+    "languageToolLinter.lintOnChange": true,
+    "languageToolLinter.external.url": "https://languagetool.odinlab.xyz:443/v2",
+    "languageToolLinter.languageTool.motherTongue": "de-AT"
+}
