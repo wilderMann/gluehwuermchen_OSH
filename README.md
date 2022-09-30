@@ -9,8 +9,7 @@ Das Glühwürmchen ist eine kleine batteriebetriebene Schaltung die im Dunkeln l
 Es soll für Anfänger einfach zu löten sein und ist für den Einsatz in der Jugendarbeit gedacht.
 
 
-<img src="/images/gluhwurmchen_front_render.png" alt="Gluhwurmchen von Vorne" style="float:left,width:250x;height:254px;">
-<img src="/images/gluhwurmchen_back_render.png" alt="Gluhwurmchen von Hinten" style="float:middle;width:250x;height:254px;">
+<img src="/images/gluhwurmchen_frontback_render.png" alt="Gluhwurmchen Render aus KiCad">
 
 
 ### Wie komme ich an das Glühwürmchen?
