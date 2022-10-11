@@ -45,7 +45,7 @@ Dort könnt ihr relativ einfach die **gluehwurmchen.kicad_pcb** Datei hochladen 
 Glühwürmchen is a small battery powerd PCB that is easy to solder for beginners and intended for the use in youthwork and schools.
 
 
-<img src="/images/gluhwurmchen_frontback_render.png" alt="Gluhwurmchen Render aus KiCad">
+<img src="/images/gluhwurmchen_frontback_render_eng.png" alt="Gluhwurmchen Render aus KiCad">
 
 
 ### How do i get one?
