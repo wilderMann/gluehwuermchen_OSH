@@ -70,7 +70,7 @@ Button cell|CR2032|1|other CR20XX might also fit into the holder|[IKEA](https://
 
 #### Ordering the PCB
 
-You can order the PCB at different companys. A cheap and european manufacturer is AISLER](https://aisler.net/).
+You can order the PCB with different companys. A cheap and european manufacturer is [AISLER](https://aisler.net/).
 There you can upload **gluehwurmchen.kicad_pcb** and order it.
 
 
