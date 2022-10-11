@@ -1,0 +1,51 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid d2f81471-795d-4265-a1e3-d58066537cf1)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 33.02 35.56) (size 127 78.74) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 19515025-85da-4f95-af5b-1a7dcdee2339)
+    (property "Sheet name" "Gluhwurmchen Origin" (id 0) (at 33.02 34.8484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "gluhwurmchen.kicad_sch" (id 1) (at 33.02 114.8846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/19515025-85da-4f95-af5b-1a7dcdee2339" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/19515025-85da-4f95-af5b-1a7dcdee2339/bd93cfdc-8b59-4d3b-8d98-fc8e20a7d6f7"
+      (reference "D1") (unit 1) (value "LED") (footprint "gluhwurmchen:LED_D5.0mm_handsolder")
+    )
+    (path "/19515025-85da-4f95-af5b-1a7dcdee2339/09de9e2b-2747-41f0-b7c0-36932673f3d1"
+      (reference "D2") (unit 1) (value "SFH300") (footprint "gluhwurmchen:LED_D5.0mm_Clear_handsolder")
+    )
+    (path "/19515025-85da-4f95-af5b-1a7dcdee2339/2c180a1f-ac0e-4b61-8a47-3091d65e1c1c"
+      (reference "J1") (unit 1) (value "3V_ext") (footprint "gluhwurmchen:SolderWirePad_1x01_SMD_2x2mm")
+    )
+    (path "/19515025-85da-4f95-af5b-1a7dcdee2339/70a23682-5420-4fb4-9f81-f6f839e3c89d"
+      (reference "J2") (unit 1) (value "GND_ext") (footprint "gluhwurmchen:SolderWirePad_1x01_SMD_2x2mm")
+    )
+    (path "/19515025-85da-4f95-af5b-1a7dcdee2339/5c780b49-336d-4df0-b088-0ad50cb54510"
+      (reference "Q1") (unit 1) (value "2N3904") (footprint "gluhwurmchen:TO-92L_Inline_Handsolder")
+    )
+    (path "/19515025-85da-4f95-af5b-1a7dcdee2339/fcc2a2cf-62db-4d94-aa5b-4192494600aa"
+      (reference "R1") (unit 1) (value "10...100kΩ") (footprint "gluhwurmchen:R_Axial_12.7mm_handsolder")
+    )
+    (path "/19515025-85da-4f95-af5b-1a7dcdee2339/a439cc34-630a-402f-8e9d-1d19af6d2308"
+      (reference "U1") (unit 1) (value "CR2032") (footprint "gluhwurmchen:CR2032_batteryholder")
+    )
+  )
+)
