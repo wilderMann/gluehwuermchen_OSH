@@ -28,9 +28,9 @@
   (fp_line (start 0.65 1.6) (end 4.4 1.6) (layer "F.Fab") (width 0.1) (tstamp ee2d6428-4913-4489-bc39-4c1d2876070a))
   (fp_arc (start 0.647182 1.602385) (mid 0.290076 -1.043188) (end 2.54 -2.48) (layer "F.Fab") (width 0.1) (tstamp aeba7c26-fc1f-4359-84a0-3ce28a60c01f))
   (fp_arc (start 2.54 -2.48) (mid 4.787211 -1.049019) (end 4.441103 1.592547) (layer "F.Fab") (width 0.1) (tstamp dc70415b-f762-4a23-ad26-ed875be953c9))
-  (pad "1" thru_hole rect (at 0 0) (size 1.8 2.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 220ba17f-7d70-48c8-9ccc-f61fa998466c))
-  (pad "2" thru_hole oval (at 2.54 0) (size 1.8 2.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp e88a7ef4-c85f-4a13-b36e-b0ce7b1f22c2))
-  (pad "3" thru_hole oval (at 5.08 0) (size 1.8 2.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 97a12d3e-04b3-446c-bb2c-53b3da20f8af))
+  (pad "1" thru_hole rect (at 0 0) (size 1.8 3) (drill 0.8) (layers *.Cu *.Mask) (tstamp 220ba17f-7d70-48c8-9ccc-f61fa998466c))
+  (pad "2" thru_hole oval (at 2.54 0) (size 1.8 3) (drill 0.8) (layers *.Cu *.Mask) (tstamp e88a7ef4-c85f-4a13-b36e-b0ce7b1f22c2))
+  (pad "3" thru_hole oval (at 5.08 0) (size 1.8 3) (drill 0.8) (layers *.Cu *.Mask) (tstamp 97a12d3e-04b3-446c-bb2c-53b3da20f8af))
   (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92L_Inline_Wide.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
